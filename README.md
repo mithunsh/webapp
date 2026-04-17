@@ -7,3 +7,5 @@ all are succefully executed
 
 some buiklds are unsuccessfull
 added the docker file for deployment
+
+now restart
